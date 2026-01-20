@@ -24,3 +24,24 @@
   left: 0;
   top: 0;
 }
+
+.logo-container {
+  width: 100%;
+  position: absolute;
+  top: 10rem; 
+  background-color: rgb(0, 0, 0, 0.4);
+  color: white;
+  font-family: "Norse-Bold";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 13px 0;
+}
+
+.logo {
+  width: 20%;
+}
+
+.logo-name {
+  font-size: 5rem;
+}
