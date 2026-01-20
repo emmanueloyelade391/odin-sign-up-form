@@ -5,3 +5,8 @@
   url("fonts/Norse-Bold.woff") format("woff"),
   url("fonts/Norse-Bold.woff2") format("woff2");
 }
+
+* {
+  padding: 0;
+  margin: 0;
+}
