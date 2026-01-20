@@ -11,3 +11,12 @@
   margin: 0;
   box-sizing: border-box; 
 }
+
+
+.image-container {
+  width: 30%; 
+}
+
+.leaves-img {
+  width: 100%; 
+}
