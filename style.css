@@ -14,9 +14,13 @@
 
 
 .image-container {
-  width: 30%; 
+  width: 32%; 
+  position: relative;
 }
 
 .leaves-img {
   width: 100%; 
+  position: absolute;
+  left: 0;
+  top: 0;
 }
