@@ -54,6 +54,20 @@
   font-size: 5rem;
 }
 
+.credits {
+  font-family: arial;
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  color: white;
+  margin-bottom: 20px; 
+}
+
+.credits span {
+  text-decoration: underline; 
+}
+
 .form-section {
   width: 100%;
   font-family: Arial, Helvetica, sans-serif;
